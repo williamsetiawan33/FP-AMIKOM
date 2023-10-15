@@ -83,6 +83,6 @@ Daftar Projek (Urut berdasarkan semester) :<br>
    William Bagus Setiawan 20.11.3605<br>
    Riefkyanov Surya A.P 20.11.3606<br>
    
-6. Coba Tebak<br><br>
+6. Coba Tebak<br>
    Mata Kuliah : Proyek Game<br>
    Info lebih detail cek repository coba-tebak dan coba-tebak api di username github ini (williamsetiawan33)
