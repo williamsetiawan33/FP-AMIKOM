@@ -35,8 +35,7 @@ Daftar Projek (Urut berdasarkan semester) :<br>
    
 (2). Program Pencatatan Pengunjung Perpustakaan<br>
    Mata Kuliah : Struktur Data<br>
-   Anggota :<br>
-   Kontak william untuk mendapatkan file proposal gkm projek ini.<br>
+   Anggota :<br>   
    
 (3). Alat Pemantauan Keamanan Rumah<br>
    Mata Kuliah : Mikrokontroller<br>
@@ -45,6 +44,7 @@ Daftar Projek (Urut berdasarkan semester) :<br>
    Ayunda Putri Purnama S 20.11.3598<br>
    Hafid Kurniadi 20.11.3604<br>
    William Bagus Setiawan 20.11.3605<br>
+   Kontak william untuk mendapatkan file proposal gkm projek ini.<br>
    
 (3). Aplikasi Ecommerce<br>
    Mata Kuliah : Interaksi Manusia dan Komputer<br>
