@@ -1,6 +1,6 @@
 # FP-AMIKOM
 Repository ini Berisi projek - projek (final projek) perkuliahan yang bersifat kelompok.<br>
-Beberapa projek yang memiliki proposal / laporan, saya hapus file proposal / laporannya karena memuat konten data diri anggota pada bagian data diri penulis. Untuk melihat file laporan / proposal ini silahkan kontak saya melalui Whatsapp.<br>
+Beberapa projek yang memiliki proposal / laporan, saya hapus file proposal / laporannya karena memuat konten data diri anggota pada bagian data diri penulis. Untuk melihat file laporan / proposal ini silakan kontak saya melalui Whatsapp.<br>
 Daftar Projek (Urut berdasarkan semester) :<br>
 
 (1). Perpustakaan Digital Amikom<br>
