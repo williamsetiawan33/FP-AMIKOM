@@ -1,10 +1,9 @@
 # FP-AMIKOM
-Repository ini Berisi projek - projek perkuliahan yang bersifat kelompok.
+Repository ini Berisi projek - projek (final projek) perkuliahan yang bersifat kelompok.
 Daftar Projek (Urut berdasarkan semester) :
 
 1. Perpustakaan Digital Amikom
-   Mata Kuliah :
-   Algoritma dan Pemrograman
+   Mata Kuliah : Algoritma dan Pemrograman
    Anggota :
    FARID NUGROHO : 20.11.3600
    HAFID KURNIADI : 20.11.3604
