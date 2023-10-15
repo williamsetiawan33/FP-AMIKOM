@@ -14,7 +14,7 @@ Daftar Projek (Urut berdasarkan semester) :<br>
    RIKI ADI SANTOSO : 20.11.3607<br>
    AHMAD FAQIH HIDAYAT : 20.11.3603<br>
    
-3. Alat Bantu Hitung Jumlah Pengunjung Toko<br>
+2. Alat Bantu Hitung Jumlah Pengunjung Toko<br>
    Mata Kuliah : Hardware Software<br>
    Anggota :<br>
    William Bagus Setiawan 20.11.3605<br>
