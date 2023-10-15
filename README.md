@@ -22,6 +22,7 @@ Daftar Projek (Urut berdasarkan semester) :<br>
    Shafira Hentihu 20.11.3576<br>
    Ridwanda Imawan 20.11.3584<br>
    Charlen Alta Qurniaty 20.11.3608<br>
+   Kontak william untuk mendapatkan file proposal gkm projek ini.<br>
    
 (2). Maskan<br>
    Mata Kuliah : Komputer Grafis<br>
@@ -35,6 +36,7 @@ Daftar Projek (Urut berdasarkan semester) :<br>
 (2). Program Pencatatan Pengunjung Perpustakaan<br>
    Mata Kuliah : Struktur Data<br>
    Anggota :<br>
+   Kontak william untuk mendapatkan file proposal gkm projek ini.<br>
    
 (3). Alat Pemantauan Keamanan Rumah<br>
    Mata Kuliah : Mikrokontroller<br>
