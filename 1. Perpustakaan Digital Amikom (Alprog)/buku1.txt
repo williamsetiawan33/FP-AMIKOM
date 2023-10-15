@@ -1,0 +1,7 @@
+no	judul_buku			nama_penulis
+1 	Artificial_Intelligence_paper	Dr.Rob_F._Walker
+2 	Pengertian_Nirmana_dan_macamnya	Drs.Sajiman_Ebdi_Sanyoto
+3 	Buku_Panduan_belajar_Laravel	Muhammad_Azamudin
+4 	Buku_Panduan_VUE_Javascript	Hafid_Mukhlasin
+5 	Coding_for_beginner_ver.2018	Mike_McGrath
+6	Habis_gelap_terbitlah_terang	R.A._Kartini

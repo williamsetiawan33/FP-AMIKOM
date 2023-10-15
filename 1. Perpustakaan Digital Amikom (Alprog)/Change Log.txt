@@ -1,0 +1,17 @@
+29/12/2020
+1. Penambahan Halaman Login.
+2. Penggantian fstream dengan Array
+3. Penggantian IF ELSE dengan SWITCH
+4. Penambahan LIST buku
+
+30/12/2020
+1. Bug baca buku fixed(penambahan while pada switch dan penyesuaian lainnya)
+2. Bagian informasi sudah diisi
+3. Bug menu fixed (perubahan coding pada bagian default)
+4. Nama file pdf yang tadinya judul asli buku tersebut diubah menjadi indeks 1-4
+
+01/01/2021
+1. Penambahan fstream pada library
+2. Bagian ubah buku sudah diisi
+3. Penggantian pada menu pilih buku Array dengan Switch
+4. penambahan file text buku
